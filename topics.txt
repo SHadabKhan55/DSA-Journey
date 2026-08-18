@@ -1,0 +1,180 @@
+Arrays
+Strings
+HashMap / Objects
+Sorting
+Two Pointers
+Sliding Window
+Stack
+Queue
+Linked List
+Binary Search
+Recursion
+Trees
+Heaps / Priority Queue
+Graphs (BFS/DFS)
+
+Phase 1 (Strong Foundation)
+
+| Topic          | Questions |
+| -------------- | --------: |
+| Arrays         |     30-40 |
+| Strings        |     20-30 |
+| HashMap        |     20-30 |
+| Sorting        |     10-15 |
+| Two Pointers   |     15-20 |
+| Sliding Window |     15-20 |
+
+
+Phase 2 (Important Data Structures)
+| Topic         | Questions |
+| ------------- | --------: |
+| Stack         |     15-20 |
+| Queue         |      5-10 |
+| Linked List   |     20-25 |
+| Binary Search |     15-20 |
+| Recursion     |     10-15 |
+
+Phase 3 (Basic Advanced Topics)
+
+| Topic               | Questions |
+| ------------------- | --------: |
+| Trees               |     20-25 |
+| Graphs (BFS/DFS)    |     10-15 |
+| Heap/Priority Queue |      5-10 |
+
+Overall Target
+Minimum: 150 questions
+Good: 200 questions
+Very Strong for MERN Remote Jobs: 250–300 questions
+
+Lekin ek condition hai:
+
+❌ 300 random questions solve mat karna.
+
+✅ Har pattern ko samajh kar solve karna.
+
+Example:
+
+Two Sum → HashMap
+Contains Duplicate → HashSet
+Valid Anagram → HashMap
+Group Anagrams → HashMap
+
+Ye 4 questions alag lagte hain, lekin pattern same hai. Jab pattern samajh aa gaya to 10 aur questions automatically easy lagne lagte hain.
+
+Mera suggestion:
+
+Roz 2–3 LeetCode questions.
+Pehle Arrays + HashMap ke 50–60 questions.
+Phir Two Pointers + Sliding Window ke 30–40.
+Phir Binary Search + Linked List.
+
+Agar tum 6 mahine mein lagbhag 200 achhe questions kar lete ho aur saath mein apne MERN projects bhi strong rakhte ho, to remote MERN interviews ke liye kaafi competitive position mein aa sakte ho.
+
+==========================
+sequence of question
+==========================
+
+Ye LeetCode #4 hai aur Hard problem hai. Iska optimal solution Binary Search + Partitioning trick use karta hai. Bohat experienced candidates bhi pehli baar mein struggle karte hain.
+
+Tum abhi Arrays section start kar rahe ho, to progression kuch aisi rakho:
+
+Arrays (Easy → Medium)
+Two Sum ✅
+Contains Duplicate ✅
+Best Time to Buy and Sell Stock
+Maximum Subarray
+Remove Duplicates from Sorted Array
+Merge Sorted Array
+Move Zeroes
+Product of Array Except Self
+Majority Element
+Find Pivot Index
+
+Phir:
+
+HashMap
+Valid Anagram
+Group Anagrams
+Intersection of Two Arrays
+Top K Frequent Elements
+
+Phir:
+
+Two Pointers
+Valid Palindrome
+Two Sum II
+Squares of a Sorted Array
+Container With Most Water
+
+Uske baad:
+
+Sliding Window
+Maximum Average Subarray
+Longest Substring Without Repeating Characters
+Permutation in String
+
+Median of Two Sorted Arrays ko tab karo jab:
+
+Binary Search achhi tarah aa jaye.
+Sorted arrays wale questions solve kar liye hon.
+Medium level ke 40–50 questions ho chuke hon.
+
+Mere hisab se abhi tumhare liye next best question:
+
+👉 Contains Duplicate (Easy)
+
+Phir:
+
+👉 Best Time to Buy and Sell Stock (Easy)
+
+Phir:
+
+👉 Maximum Subarray (Medium)
+
+Ye sequence tumhari pattern recognition ko develop karega. Median of Two Sorted Arrays ko abhi skip karke bookmark kar lo. Warna confidence toot sakta hai kyunki ye beginner Arrays question nahi hai.
+
+
+======================================================
+
+Ab HashMap/HashSet practice
+
+Main tumhe easy → medium progression mein dunga:
+
+HashSet
+
+Contains Duplicate ✅
+Intersection of Two Arrays
+Happy Number
+Longest Consecutive Sequence — Medium
+
+HashMap
+5. Valid Anagram
+6. Two Sum ✅
+7. First Unique Character in a String
+8. Ransom Note
+9. Group Anagrams — Medium
+10. Top K Frequent Elements — Medium
+
+Lekin hum ek saath 10 nahi karenge.
+
+Ab next question
+
+👉 Valid Anagram — Easy
+
+Ismein tumhe ye pattern samajh aayega:
+
+character → frequency
+
+Example:
+
+s = "anagram"
+t = "nagaram"
+
+Humein check karna hai ke dono strings mein har character same frequency ke saath hai ya nahi.
+
+Yahan HashMap / frequency counting use hoga.
+
+Aur main is baar pehle tumhe problem + thinking process dunga, direct code nahi. Tum khud attempt karoge, phir main tumhara code check karke optimize karwaunga.
+
+Sequence ab HashMap/HashSet pattern clear hone tak yahi rahega.

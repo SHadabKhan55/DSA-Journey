@@ -136,7 +136,7 @@ function twoSumOptimized(nums, target) {
     return "No Solution";
 }
 
-console.log("Optimized:", twoSumOptimized([2, 4, 11, 16, 5], 9));
+console.log("Optimized:", twoSumOptimized([3,2,14], 17));
 
 
 /*
